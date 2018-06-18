@@ -1,0 +1,12 @@
+- name: 'paris'
+  address: '12 villa gaudelet'
+  last_seats: true
+- name: 'london'
+  address: '138 kingsland road'
+  last_seats: true
+- name: 'milan'
+  address: '52 corso margenta'
+  last_seats: false
+- name: 'barcelona'
+  address: '13 las ramblas'
+  last_seats: false
